@@ -1,0 +1,5 @@
+Iterate through std::list  -- 
+http://www.cplusplus.com/forum/general/22957/
+
+Iomanip formatting --
+https://stackoverflow.com/questions/14765155/how-can-i-easily-format-my-data-table-in-c
